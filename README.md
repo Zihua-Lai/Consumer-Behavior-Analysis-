@@ -51,6 +51,17 @@ Created an RFM model and did the data visualisation.
 少部分用户生命周期集中在300~500天，属于我们的忠诚客户，需要大力度维护此类客户
 
 
+## 5 Repeated Purchase Rate and Repurchase Rate 
+### 1) Repeated Purchase Rate 
+计算方式：在自然月内，购买多次的用户在总消费人数中的占比（若客户在同一天消费了多次，也称之复购用户）
+消费者有三种：消费记录>=2次的；消费中人数；本月无消费用户；
+复购用户:1    非复购的消费用户：0   自然月没有消费记录的用户：NAN(不参与count计数)
+
+### 2) Repurchase Rate 
+计算方式：在一个时间窗口内进行了消费，在下一个窗口内又进行了消费
+
+
+
 
 
 
