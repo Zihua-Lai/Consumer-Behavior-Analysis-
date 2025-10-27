@@ -27,6 +27,16 @@ user_id:用户ID，order_dt:购买日期，order_products:购买产品数量,ord
 ## 2 User Segmentation
 Created an RFM model and did the data visualisation. 
 
+## 3 New Customer, Active Customers, and Returning Customers Analysis 
+新用户的定义是第一次消费。
+活跃用户即老客，在某一个时间窗口内有过消费。
+不活跃用户则是时间窗口内没有消费过的老客。
+回流用户：相当于回头客的意思。
+用户回流的动作可以分为自主回流与人工回流，自主回流指玩家自己回流了，而人工回流则是人为参与导致的。
+
+回流用户：前五个月，回流用户上涨，过后呈现下降趋势，平均维持在5%比例
+活跃用户：前三个月活跃用户大量增长，猜测由于活到新引来很多新用户所导致.5月份过后开始下降，平均维持在2.5%左右 . 网站运营稳定后，回流用户占比大于活跃用户
+
 
 
 
