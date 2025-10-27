@@ -22,3 +22,11 @@ user_id:用户ID，order_dt:购买日期，order_products:购买产品数量,ord
 ### The first and last purchase time 
 大多数用户最后一次购买时间集中在前3个月，说明缺少忠诚用户。
 随着时间的推移，最后一次购买商品的用户量呈现上升趋势，猜测：这份数据选择是的前三个月消费的用户在后面18个月的跟踪记录
+
+
+## 2 User Segmentation
+Created an RFM model and did the data visualisation. 
+
+
+
+
